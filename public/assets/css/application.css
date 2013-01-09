@@ -145,6 +145,16 @@ iframe {
   border-radius: 2px;
 }
 
+#redemption_bar .button_red {
+  border: 1px solid #D14836;
+  background: #DB4B39;
+  color: #fff !important;
+  font-weight: bold;
+  padding: 5px 20px;
+  font-size: 12px;
+  border-radius: 2px;
+}
+
 #redemption_bar p {
   padding: 0;
   margin: 0;
